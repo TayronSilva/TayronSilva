@@ -39,3 +39,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
   </a>
 </div>
+
+<img src="https://raw.githubusercontent.com/TayronSilva/TayronSilva/output/snake.svg" alt="Snake animation" />
+
+###
