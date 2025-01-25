@@ -44,9 +44,18 @@
 
 ###
 
-<div aligh="left">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
-    alt="snake">
+<div align="left">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg" alt="snake">
 </div>
+
+###
+
+<h3> 🎶 What am I listening to right now </h3>
+<p align="left">
+  <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jnbldmndtvragnxkpqdajxvtli&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile" width="250" height="250" />
+  </a>
+</p>
+
 
 ###
