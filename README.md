@@ -1,5 +1,5 @@
 <h2 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Tayronne</h2>
-<h3 align="left">🚀 Aspiring Full Stack Developer from Brazil</h3>
+<h3 align="left">🚀 Aspiring Back-End Developer from Brazil</h3>
 
 ###
 
