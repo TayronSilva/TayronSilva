@@ -3,15 +3,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TayronSilva&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=false" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayronSilva&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="180"/>
-</div>
-
 ###
 
 ## 🧠 About Me
-- 🔭 Working on personal projects like [TransVeículo](https://github.com/TayronSilva/TransVeiculos)
+- 🔭 Working on personal projects like [TransVeículo](https://github.com/TayronSilva/TransVeiculos), [OnBack](https://github.com/TayronSilva/onback)
 - 🌱 Currently learning **Spring Boot, Cloud Computing, Microservices**
 - 💡 Exploring **DevOps**, **Docker**, and **Kubernetes**
 - ⚙️ Love building systems that solve real-world problems
